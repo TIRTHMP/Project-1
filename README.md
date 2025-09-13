@@ -1,3 +1,3 @@
 # Project-1
 
-# <img src = " alt="Handshake" width="40" />
+# <img src = https://githubusercontent.com/TIRTHMP/Project-1/main/Project1thumbnail.png width="40" />
