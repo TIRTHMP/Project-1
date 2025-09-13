@@ -1,3 +1,3 @@
 # Project-1
 
-# <img src = https://githubusercontent.com/TIRTHMP/Project-1/main/Project1thumbnail.png />
+![Project1thumbnail.png](https://raw.githubusercontent.com/TIRTHMP/Project-1/main/Project1thumbnail.png />
